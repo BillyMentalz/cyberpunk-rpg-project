@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "104133e36e436d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "a702e12112356610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2406b7d7ce560f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neo-Eberron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neo-Eberron"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af7b5cd996f6acf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a409a0bde0b311a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5e862b20ab2ea54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb020550fbb9aa13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "269de5e393646e1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "815f5c6fcc726f43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c665f039c3285659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63db205d58024b3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neo-Eberron.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Neo-Eberron"
+            }
+          },
+          {
+            "id": "c0f8733b1f0ca804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neo-Eberron.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Neo-Eberron"
+            }
+          },
+          {
+            "id": "f912b1c9d57f9334",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d698e5f023213f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neo-Eberron.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Neo-Eberron"
+            }
+          },
+          {
+            "id": "89bf4294ec20d8d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2406b7d7ce560f9c",
+  "lastOpenFiles": [
+    "README.md",
+    "Neo-Eberron.md",
+    "cyberpunk-rpg-project/Neo-Eberron.md",
+    "LICENSE",
+    "cyberpunk-rpg-project/README.md",
+    "cyberpunk-rpg-project/LICENSE",
+    "cyberpunk-rpg-project"
+  ]
+}
