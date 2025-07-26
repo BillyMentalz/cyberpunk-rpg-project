@@ -1,7 +1,7 @@
 > The tools which make and unmake us is far m
 > In the bleakness of the far future, the only religion is the indomitable human spirit. - Sylaps Sooth 
 
-This si the start of the [[Neo-Eberron]] project. The Neo-Eberron project attempts to replicate what the Eberron setting does with it's characters with the idea that this is all in near future, with some caveats. Genetic engineering has caught up with computers and it has caused havoc. Technology has become so indistinguishable from magic that only the most intellgient could decipher them, and the only thing making them feasible are the mega-corps that maintain the tech of the populous. The mega-corps all vy for power, and so do the regional powers who have the monopoly over their respective regions. 
+This is the start of the [[Untitled]] project. The [[Untitled]]project attempts to replicate what the Eberron setting does with it's characters with the idea that this is all in near future, with some caveats. Genetic engineering has caught up with computers and it has caused havoc. Technology has become so indistinguishable from magic that only the most intellgient could decipher them, and the only thing making them feasible are the mega-corps that maintain the tech of the populous. The mega-corps all vy for power, and so do the regional powers who have the monopoly over their respective regions. 
 
 Against the mega-corps are the dissidents, souls who've pored their whole lives into solving the tech their ancestors have put before them, championing all sorts of technology and their know-how as something that should not be gate-kept. However noble their goal is, the mega-corps do everything in their power to make sure that they get the money they deserve by locking people in their ecosystem. 
 

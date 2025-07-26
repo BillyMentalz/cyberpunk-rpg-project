@@ -1,0 +1,3 @@
+INgrid is an intercontinental conglomerate that serves as the sole remaining chip manufacturer to be able to fabricate the best chips in the world. THe home to many electrical engineers and a endless supply of 'workers' that came from somewhere, their high-end computer chips are the envy of any electrical engineer who've heard of them. Although using the Open Source RISC-VII architecture and with open-source drivers, there have no rivals simply because it was a really difficult endeavor to make use of any of the world's remaining fabs. 
+
+THe founder of INgrid bought the rights of a ruined chip manufacturer and was able to hire enough engineers before the fall of telecommunications. 

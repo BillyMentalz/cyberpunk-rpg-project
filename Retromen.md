@@ -1,0 +1,1 @@
+They are the face of robot warfare. Initally designed to be fodder by a company that were scrapping on parts, by other corps, they decided to release a robot that was simple and cheap to manufacture. 

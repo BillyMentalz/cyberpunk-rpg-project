@@ -1,0 +1,1 @@
+There is a man who hruns one of the worlds only autofactories, a relic of a warmongering past. Amonst the people of the world, is the is most knowledgable about the comings and goings of the world, his 'birds' telling 

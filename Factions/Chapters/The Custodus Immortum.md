@@ -1,0 +1,5 @@
+The Custodus Immortum are a bunch of high genetically, cybernetic-ally modified humans that have replaced all perishable parts of their body with parts that are built to last for eternity. THeir bodies are built with a lot of redundancy and is meant to take heat, cold, kinetic damage, anything. 
+
+SOme even go to the lengths of removing all moving parts of their central body, connecting themselves to wireless ports and charging stations, moving their body around with external tools and kinetic drones. They basically resemble coffins. Some members instead use biotech to focus on more regenrative capabiilities instead of preventive measures, allowing them to tank incredible hits and still live. 
+
+Trading speed for safety , the Custodus Immortum are known for their slowly moving bodies. Granted, they are pretty much bullet proof, and without any internal weaponry anti-tank weapons do very little. Their bodies are riddled with backups upon backups, ensuring that killing an imortum is *never* worth your time. 

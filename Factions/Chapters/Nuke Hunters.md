@@ -1,0 +1,1 @@
+A bunch of people who scour the lands in search of hidden military bases, and take their nuclear stockpiles. THey do it to maintain peace, but also because they want ot keep theri nuclear power planet back home running. 

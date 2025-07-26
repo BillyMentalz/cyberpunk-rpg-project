@@ -1,0 +1,1 @@
+It is probably not possible for there to be an completely independent chip company. INstead, there is probably a lot of different 
